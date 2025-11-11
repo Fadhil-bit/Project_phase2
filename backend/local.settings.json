@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AZURE_STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;AccountName=dietanalysisstorage2;AccountKey=DefaultEndpointsProtocol=https;AccountName=dietanalysisstorage2;AccountKey=bQQLoUtSxvhF740Le1n6nNIBFcwlpI1OFMASi8qlghQqO3dMgdisBQ26ApLz8VVOkeDvKsQrffM8+AStQqePAw==;EndpointSuffix=core.windows.net;EndpointSuffix=core.windows.net",
+    "BLOB_CONTAINER_NAME": "datasets",
+    "BLOB_NAME": "All_Diets.csv"
+  }
+}
